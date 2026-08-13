@@ -6,7 +6,28 @@ I started this project as part of Hack Club Stardance because I wanted to learn 
 
 The result is a compact macropad that's useful for coding, video editing, media controls, and everyday shortcuts while also being a fun project to customize. Since everything is open source, you can easily change the firmware, modify the hardware, or even design your own version.
 
-<img src="devlog-assets/assembledcase.png" alt="assembled case" width="800">
+### Assembled Case
 
+<img src="devlog-assets/assembledcase.png" alt="ByteBoard assembled case" width="800">
+
+*The completed ByteBoard with its 3D-printed case.*
+
+### Matrix Schematic
+
+<img src="devlog-assets/day2-sch.png" alt="ByteBoard matrix schematic" width="600">
+
+*The schematic for the 3×3 key matrix.*
+
+### Routed PCB
+
+<img src="devlog-assets/routed-pcb.png" alt="ByteBoard routed PCB" width="600">
+
+*The completed PCB layout after routing.*
+
+### PCB 3D Model
+
+<img src="devlog-assets/3d-pcb.png" alt="ByteBoard 3D PCB model" width="600">
+
+*The finished PCB visualized in 3D.*
 
 ➡️ [Read the full journal](./JOURNAL.md)
