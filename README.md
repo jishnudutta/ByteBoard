@@ -12,6 +12,18 @@ The result is a compact macropad that's useful for coding, video editing, media 
 
 *The completed ByteBoard with its 3D-printed case.*
 
+### Top Case
+
+<img src="devlog-assets/topplate-v2.png" alt="ByteBoard assembled case" width="800">
+
+*The top part of the case.*
+
+### Bottom Case
+
+<img src="devlog-assets/bottomplate-v2.png" alt="ByteBoard assembled case" width="800">
+
+*The bottom part of the case.*
+
 ### Matrix Schematic
 
 <img src="devlog-assets/day2-sch.png" alt="ByteBoard matrix schematic" width="600">
